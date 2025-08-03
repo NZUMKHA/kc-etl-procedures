@@ -62,7 +62,7 @@ EXEC [stage].[spTransform_dimClass] 1, 1, 1, 'Test';
 
 - Original Author: Tim Foote
 - Contributors: m.kannangara
-- Updated for 2025: [Your Name]
+- Updated for 2025: [U.Khattak]
 
 ---
 
